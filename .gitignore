@@ -30,3 +30,5 @@
 
 # Debug files
 *.dSYM/
+/firmware.X/build/default/
+/firmware.X/dist/default/
